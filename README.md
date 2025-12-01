@@ -1,2 +1,3 @@
 # infovis
-radar.svg
+![Radar](infovis/radar.svg)
+
