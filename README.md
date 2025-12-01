@@ -1,3 +1,4 @@
 # infovis
-![Radar](infovis/radar.svg)
+![Radar](https://raw.githubusercontent.com/camilagaletto/infovis/main/radar.svg)
+
 
