@@ -1,5 +1,6 @@
 # infovis
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/26592513"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26592513/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 <!DOCTYPE html>
 <html lang="es">
 <head>
